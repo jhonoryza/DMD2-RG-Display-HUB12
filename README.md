@@ -1,4 +1,4 @@
-##this is a fork from dmd2 library by freetronics modified for RG display P10 HUB12, already tested with ESP8266 with softdmd
+## this is a fork from dmd2 library by freetronics modified for RG display P10 HUB12, already tested with ESP8266 with softdmd
 </br></br>
 connection ESP8266 with HUB12 P10 RG Display:
 </br>	
